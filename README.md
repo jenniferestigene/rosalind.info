@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://rosalind.info/">
+    <img src="https://rosalind.info/static/img/logo.png" alt="Rosalind logo" width="200">
+  </a>
+</p>
+
 # Rosalind Solutions
 
 > My solutions to problems from [Rosalind](https://rosalind.info/), organized by
@@ -41,8 +47,6 @@ Rosalind's own five locations above.
 Each problem below is listed with a link to its original description on
 Rosalind and a link to my solution. Problems I haven't solved yet are marked
 as such; those links will go live as I publish each solution.
-
-**My Rosalind profile:** _add your rosalind.info/users/ link here_
 
 ---
 
